@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for an **Internship for Dec 2025 - May 2026**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/max-johansson-189107347/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/max-jv-johansson/)
 
 - ⚡ Fun facts about me: **In my free time, I spend a lot of time producing music in the studio and playing guitar in a rock band. I also enjoy playing golf. A little trivia about me—I have a passion for creativity and even won a bronze medal in the LEGO SM in 2007!**
 
