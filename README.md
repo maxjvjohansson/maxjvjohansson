@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Path-Validator-CLI](https://github.com/maxjvjohansson/path-validator-cli)
 
-- 🌱 I’m currently learning **React, Next.js,and C#**
+- 🌱 I’m currently learning **React, Next.js and C#**
 
 - 🤝 I’m looking for an **Internship for Dec 2025 - May 2026**
 
