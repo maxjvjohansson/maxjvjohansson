@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Johansson</h1>
 <h3 align="center">A passionate web developer from Gothenburg, Sweden</h3>
 
-- 🔭 I’m currently working on [Path-Validator-CLI](https://github.com/maxjvjohansson/path-validator-cli)
+- 🔭 I’m currently working on [WatchLyst-App](https://github.com/maxjvjohansson/watchlyst-app/) & [Loopr](https://github.com/maxjvjohansson/loopr-app)
 
 - 🌱 I’m currently learning **React, Next.js and TypeScript**
 
