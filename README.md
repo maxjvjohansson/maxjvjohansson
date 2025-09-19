@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Next.js and TypeScript**
 
-- 🤝 I’m doing my **Internship between 24 of november 2025 - 29 of may 2026 at Raket 🚀 in Gothenburg as a developer**
+- 🤝 I’m doing my **Internship** between 24 of november 2025 - 29 of may 2026 at Raket 🚀 in Gothenburg as a developer
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/max-jv-johansson/)
 
